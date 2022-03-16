@@ -1,0 +1,15 @@
+C:\MyProjects\GelecegiYazanlarOdevler\WarGame\bin\Debug\net6.0\WarGame.exe
+C:\MyProjects\GelecegiYazanlarOdevler\WarGame\bin\Debug\net6.0\WarGame.deps.json
+C:\MyProjects\GelecegiYazanlarOdevler\WarGame\bin\Debug\net6.0\WarGame.runtimeconfig.json
+C:\MyProjects\GelecegiYazanlarOdevler\WarGame\bin\Debug\net6.0\WarGame.dll
+C:\MyProjects\GelecegiYazanlarOdevler\WarGame\bin\Debug\net6.0\ref\WarGame.dll
+C:\MyProjects\GelecegiYazanlarOdevler\WarGame\bin\Debug\net6.0\WarGame.pdb
+C:\MyProjects\GelecegiYazanlarOdevler\WarGame\obj\Debug\net6.0\WarGame.csproj.AssemblyReference.cache
+C:\MyProjects\GelecegiYazanlarOdevler\WarGame\obj\Debug\net6.0\WarGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\GelecegiYazanlarOdevler\WarGame\obj\Debug\net6.0\WarGame.AssemblyInfoInputs.cache
+C:\MyProjects\GelecegiYazanlarOdevler\WarGame\obj\Debug\net6.0\WarGame.AssemblyInfo.cs
+C:\MyProjects\GelecegiYazanlarOdevler\WarGame\obj\Debug\net6.0\WarGame.csproj.CoreCompileInputs.cache
+C:\MyProjects\GelecegiYazanlarOdevler\WarGame\obj\Debug\net6.0\WarGame.dll
+C:\MyProjects\GelecegiYazanlarOdevler\WarGame\obj\Debug\net6.0\ref\WarGame.dll
+C:\MyProjects\GelecegiYazanlarOdevler\WarGame\obj\Debug\net6.0\WarGame.pdb
+C:\MyProjects\GelecegiYazanlarOdevler\WarGame\obj\Debug\net6.0\WarGame.genruntimeconfig.cache
