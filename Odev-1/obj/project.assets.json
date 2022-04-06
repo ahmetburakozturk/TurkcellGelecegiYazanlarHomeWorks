@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ahmetburak\\.nuget\\packages\\": {}
+    "C:\\Users\\adm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyProjects\\GelecegiYazanlarOdevler\\Odev-1\\Odev-1.csproj",
+      "projectUniqueName": "C:\\Users\\adm\\Documents\\GitHub\\TurkcellGelecegiYazanlarHomeWorks\\Odev-1\\Odev-1.csproj",
       "projectName": "Odev-1",
-      "projectPath": "C:\\MyProjects\\GelecegiYazanlarOdevler\\Odev-1\\Odev-1.csproj",
-      "packagesPath": "C:\\Users\\ahmetburak\\.nuget\\packages\\",
-      "outputPath": "C:\\MyProjects\\GelecegiYazanlarOdevler\\Odev-1\\obj\\",
+      "projectPath": "C:\\Users\\adm\\Documents\\GitHub\\TurkcellGelecegiYazanlarHomeWorks\\Odev-1\\Odev-1.csproj",
+      "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\adm\\Documents\\GitHub\\TurkcellGelecegiYazanlarHomeWorks\\Odev-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ahmetburak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

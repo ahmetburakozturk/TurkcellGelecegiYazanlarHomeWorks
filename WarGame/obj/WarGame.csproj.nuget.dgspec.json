@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProjects\\GelecegiYazanlarOdevler\\WarGame\\WarGame.csproj": {}
+    "C:\\Users\\adm\\Documents\\GitHub\\TurkcellGelecegiYazanlarHomeWorks\\WarGame\\WarGame.csproj": {}
   },
   "projects": {
-    "C:\\MyProjects\\GelecegiYazanlarOdevler\\WarGame\\WarGame.csproj": {
+    "C:\\Users\\adm\\Documents\\GitHub\\TurkcellGelecegiYazanlarHomeWorks\\WarGame\\WarGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\GelecegiYazanlarOdevler\\WarGame\\WarGame.csproj",
+        "projectUniqueName": "C:\\Users\\adm\\Documents\\GitHub\\TurkcellGelecegiYazanlarHomeWorks\\WarGame\\WarGame.csproj",
         "projectName": "WarGame",
-        "projectPath": "C:\\MyProjects\\GelecegiYazanlarOdevler\\WarGame\\WarGame.csproj",
-        "packagesPath": "C:\\Users\\ahmetburak\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\GelecegiYazanlarOdevler\\WarGame\\obj\\",
+        "projectPath": "C:\\Users\\adm\\Documents\\GitHub\\TurkcellGelecegiYazanlarHomeWorks\\WarGame\\WarGame.csproj",
+        "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adm\\Documents\\GitHub\\TurkcellGelecegiYazanlarHomeWorks\\WarGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ahmetburak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

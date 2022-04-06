@@ -1,0 +1,26 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@model CoronaParty.Models.PartyAnswer
+
+@{
+    Layout = "_Layout";
+}
+
+<form method="post" style="margin-top: 3rem; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
+    <p>
+        <label asp-for="Name"></label>
+        <input asp-for="Name"/>
+        <span asp-validation-for="Name" style="color: red"></span>
+    </p>
+    <p>
+        <label asp-for="PhoneNumber"></label>
+        <input asp-for="PhoneNumber"/>
+        <span asp-validation-for="Name" style="color: red"></span>
+    </p>
+    <p>
+        <label asp-for="State"></label>
+        <input asp-for="State"/>
+        <span asp-validation-for="Name" style="color: red"></span>
+    </p>
+    <button type="submit" class="btn btn-primary">Gönder</button>
+</form>

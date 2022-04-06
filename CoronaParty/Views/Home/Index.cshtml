@@ -1,0 +1,19 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = "_Layout";
+}
+
+<div class="card" style="width: 18rem; display: flex;
+                         justify-content: center;
+                         align-items: center;
+                         text-align: center;">
+    <img class="card-img-top" src="/images/card_corona.jpg" alt="Corona İmage">
+    <div class="card-body">
+        <h5 class="card-title">Corona Goodbye Party</h5>
+        <p class="card-text">We're throwing this party to say goodbye to corona</p>
+        <p>15.03.2022</p>
+        <p>Cumhuriyet Mahallesi Corona SK. 15/15 Kadıköy/İSTANBUL</p>
+        <a asp-action="PartyForm" asp-controller="Home" class="btn btn-primary">Form'a Git</a>
+    </div>
+</div>
