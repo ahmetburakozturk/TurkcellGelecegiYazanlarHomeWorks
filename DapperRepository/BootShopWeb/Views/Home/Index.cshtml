@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="container-fluid row">
+    @foreach (var item in Model)
+    {
+        <partial name="_ProductCard" model="item"/>
+    }
+</div>
+
+<ul class="pagination justify-content-center mt-3">
+    @for (var i = 1; i <= ViewBag.TotalPages; i++)
+    {
+        <li class="page-item @(i==ViewBag.CurrentPage ? "active":"")">
+            <a class="page-link " asp-action="Index" asp-route-page="@i" asp-route-catName="@ViewBag.CurrentCategory">@i</a>
+        </li>
+    }
+</ul>
